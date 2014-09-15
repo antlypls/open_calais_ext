@@ -1,0 +1,34 @@
+#calaisFrame {
+  border: none !important;
+  bottom: auto !important;
+  box-shadow: none !important;
+  display: block !important;
+  height: 100% !important;
+  left: auto !important;
+  right: -154px !important;
+  top: 0 !important;
+  -webkit-transition: right .5s cubic-bezier(0.165, 0.84, 0.44, 1) !important;
+
+  background: none !important;
+  box-sizing: content-box !important;
+  margin: 0 !important;
+  max-height: none !important;
+  min-height: 0 !important;
+  max-width: none !important;
+  min-width: 0 !important;
+  opacity: 1 !important;
+  outline: invert none medium !important;
+  padding: 0 !important;
+  position: fixed !important;
+  resize: none !important;
+  vertical-align: baseline !important;
+  visibility: visible !important;
+  z-index: 2147483647 !important;
+  -webkit-animation-duration: 0 !important;
+
+  width: 300px !important;
+}
+
+#calaisFrame {
+  right: 0 !important;
+}

@@ -1,0 +1,40 @@
+body {
+  font-size: 13px;
+  font-style: normal;
+  overflow: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+* {
+  background-repeat: no-repeat;
+  color: inherit;
+  font: inherit;
+  text-shadow: inherit;
+  -webkit-font-smoothing: inherit;
+}
+
+body {
+  background-color: #FFFFFF;
+
+  background-position: right top;
+  background-size: 152px 100%;
+  margin: 16px 18px 18px 18px;
+
+  height: 100%;
+}
+
+#result {
+  height: 100%;
+  overflow: scroll;
+  padding-bottom: 45px;
+  box-sizing: border-box;
+}
+
+#result ul {
+  padding-left: 20px;
+}
+
+#result ul.jsontree {
+  padding-left: 0px;
+  margin: 0px;
+}
